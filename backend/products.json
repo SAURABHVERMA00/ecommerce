@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Apple iPhone 15",
+    "price": 999,
+    "category": "Mobile",
+    "description": "Latest Apple iPhone with A16 chip.",
+    "image": "https://dummyimage.com/iphone15.png"
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "category": "Mobile",
+    "description": "Flagship Samsung phone with AMOLED display.",
+    "image": "https://dummyimage.com/galaxys24.png"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "price": 349,
+    "category": "Headphones",
+    "description": "Industry-leading noise cancelling headphones.",
+    "image": "https://dummyimage.com/sonywh1000xm5.png"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 1299,
+    "category": "Laptop",
+    "description": "Premium ultrabook with InfinityEdge display.",
+    "image": "https://dummyimage.com/dellxps13.png"
+  }
+]
